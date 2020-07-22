@@ -1,0 +1,11 @@
+# p5.play-boilerplate
+-- create player
+-- create obstacles
+-- water drop image must be loaded
+-- bacteria, sewage, chmicals images must be loaded
+-- background images must be loaded
+-- player moving controls
+-- random spawning and no of obstacles spawning according to players time
+-- player life = 10
+-- If player dies or reaches the end, reasons behind this game must appear. Images of water contamination and their causes.
+-- end
